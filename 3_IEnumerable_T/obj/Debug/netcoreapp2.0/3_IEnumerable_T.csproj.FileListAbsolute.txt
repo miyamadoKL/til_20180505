@@ -1,0 +1,10 @@
+C:\Users\KL\AAA_code\til_20180505\3_IEnumerable_T\bin\Debug\netcoreapp2.0\3_IEnumerable_T.deps.json
+C:\Users\KL\AAA_code\til_20180505\3_IEnumerable_T\bin\Debug\netcoreapp2.0\3_IEnumerable_T.runtimeconfig.json
+C:\Users\KL\AAA_code\til_20180505\3_IEnumerable_T\bin\Debug\netcoreapp2.0\3_IEnumerable_T.runtimeconfig.dev.json
+C:\Users\KL\AAA_code\til_20180505\3_IEnumerable_T\bin\Debug\netcoreapp2.0\3_IEnumerable_T.dll
+C:\Users\KL\AAA_code\til_20180505\3_IEnumerable_T\bin\Debug\netcoreapp2.0\3_IEnumerable_T.pdb
+C:\Users\KL\AAA_code\til_20180505\3_IEnumerable_T\obj\Debug\netcoreapp2.0\3_IEnumerable_T.csproj.CoreCompileInputs.cache
+C:\Users\KL\AAA_code\til_20180505\3_IEnumerable_T\obj\Debug\netcoreapp2.0\3_IEnumerable_T.AssemblyInfoInputs.cache
+C:\Users\KL\AAA_code\til_20180505\3_IEnumerable_T\obj\Debug\netcoreapp2.0\3_IEnumerable_T.AssemblyInfo.cs
+C:\Users\KL\AAA_code\til_20180505\3_IEnumerable_T\obj\Debug\netcoreapp2.0\3_IEnumerable_T.dll
+C:\Users\KL\AAA_code\til_20180505\3_IEnumerable_T\obj\Debug\netcoreapp2.0\3_IEnumerable_T.pdb
